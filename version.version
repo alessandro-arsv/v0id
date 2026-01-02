@@ -1,4 +1,5 @@
 {
   APIVersion: "V1",
-  ExecutorVersion: "V1"
+  ExecutorVersion: "V1",
+  KillSwitch: false
 }
